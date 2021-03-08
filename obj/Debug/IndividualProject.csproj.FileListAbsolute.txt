@@ -1,0 +1,7 @@
+D:\Data\OneDrive - Careered - CTU\CS233\Unit4\Individual Project 2\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe.config
+D:\Data\OneDrive - Careered - CTU\CS233\Unit4\Individual Project 2\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe
+D:\Data\OneDrive - Careered - CTU\CS233\Unit4\Individual Project 2\IndividualProject\IndividualProject\bin\Debug\IndividualProject.pdb
+D:\Data\OneDrive - Careered - CTU\CS233\Unit4\Individual Project 2\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csprojAssemblyReference.cache
+D:\Data\OneDrive - Careered - CTU\CS233\Unit4\Individual Project 2\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csproj.CoreCompileInputs.cache
+D:\Data\OneDrive - Careered - CTU\CS233\Unit4\Individual Project 2\IndividualProject\IndividualProject\obj\Debug\IndividualProject.exe
+D:\Data\OneDrive - Careered - CTU\CS233\Unit4\Individual Project 2\IndividualProject\IndividualProject\obj\Debug\IndividualProject.pdb
